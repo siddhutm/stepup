@@ -14,6 +14,8 @@ function b(){
 
 function c(){
 	//sample javascript file
+	var e,f;
+	console.log("output values of c and d",c,d);
 }
 
 function d(){
