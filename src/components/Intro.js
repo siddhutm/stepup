@@ -4,7 +4,7 @@ const Intro = () => {
         <div className="content">
             <h1>Siddaveeraiah T M</h1>
             <h2>Software Engineer</h2>
-            <a>Download Resume</a>
+            <h3>+1(647) 558-7703</h3>
         </div>
 
     )

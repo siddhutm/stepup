@@ -50,6 +50,9 @@ body {
     margin-bottom: 15px;
 }
 
+.content h3 {
+    color: #a0cfee;
+}
 .aboutMe {
     display: flex;
     padding: 75px 15px;
